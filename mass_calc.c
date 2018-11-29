@@ -1,6 +1,6 @@
 /*  Ethan Engel, Michael Klein
 mass_calc.c
-This program will calculate the radius of a white dwarf star and compare the radius to the mass of a the dwarf star
+This program will calculate the radius of a white dwarf star and compare the radius to the mass of a dwarf star
 To compile use gcc radius_calc.c -o radius_calc -lm
 To run use ./radius_calc
 */
