@@ -11,8 +11,8 @@ To run use ./radius_calc
 #include <stdlib.h>
 #define pi M_PI
 #define G 6.67e-8                                  // universal gravitational constant in CGS units
-#define gamma 5/3                                  //
-#define K 3.15e12
+#define gamma 5/3                                  // the calculated gamma from the degrees of freedom (using n = 1.5)
+#define K 3.15e12                                  // the calculated K for the non-relativistic case
 
 float rhs_1(float r, float rho)
 {
